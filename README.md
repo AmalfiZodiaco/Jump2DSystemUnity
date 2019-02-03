@@ -6,3 +6,5 @@ In the only scene there is a player. The player moves with the a / d buttons and
 The scripts you need to adjust the jump (in their inspectors) are "PlayerManager" (in the gameObject "Player") and "ForceManagerSystem" (in the GameObject "LevelManager").
 
 Enjoy.
+
+P.S: the project uses the Unity 2018.3 version.
