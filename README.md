@@ -8,3 +8,7 @@ The scripts you need to adjust the jump (in their inspectors) are "PlayerManager
 Enjoy.
 
 P.S: the project uses the Unity 2018.3 version.
+
+There is a build: 
+-"a"/"s" for movement
+- "w" for jump
